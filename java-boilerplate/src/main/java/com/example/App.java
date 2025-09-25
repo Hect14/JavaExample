@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, Java Boilerplate!");
+        System.out.println("Hello, this is my contribution!");
         // Application logic can be added here
     }
 }
